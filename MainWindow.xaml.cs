@@ -32,7 +32,7 @@ namespace Arduino_testi
         public string Segments2;
 
 
-
+        //gfdgdgd
         public MainWindow()
         {
             InitializeComponent();
